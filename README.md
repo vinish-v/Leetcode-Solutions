@@ -19,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
