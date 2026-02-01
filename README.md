@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
