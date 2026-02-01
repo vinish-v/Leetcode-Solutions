@@ -6,7 +6,6 @@ class Solution {
 
         for (int i = 0; i < n - 2; i++) {
 
-            // skip duplicate first element
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
