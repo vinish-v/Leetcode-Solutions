@@ -26,7 +26,7 @@
    - Skip the element
 5. After the loop, the first `i` elements are uniqueStep-by-step
 
-   memory diagram :
+## memory diagram :
 Input
 nums = [1,1,2,2,3]
 
