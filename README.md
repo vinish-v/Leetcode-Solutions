@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sorting
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
