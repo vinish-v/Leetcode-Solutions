@@ -8,13 +8,14 @@ class Solution {
         while (left<=right){
             if (Math.abs(nums[left])> Math.abs(nums[right])){
                 
-                ans[p--] = nums[left]* nums[left];
+                ans[p] = nums[left]* nums[left];
                 left ++;
             }
             else{
-                ans[p--] = nums[right]*nums[right];
+                ans[p] = nums[right]*nums[right];
                 right--;
             }
+            p--;
         }
         return ans;
 
