@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
