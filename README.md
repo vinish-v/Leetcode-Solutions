@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
@@ -25,6 +26,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -46,6 +48,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
