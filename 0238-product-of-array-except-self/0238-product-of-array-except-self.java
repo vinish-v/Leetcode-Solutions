@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] output = new int[n];
         for(int i =0;i<n;i++){
-          output[i]=i;
+          output[i]=1;
         }
         int left=1;
         for(int i=0;i<n;i++){
