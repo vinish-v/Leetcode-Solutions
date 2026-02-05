@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
