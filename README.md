@@ -23,6 +23,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 ## Sorting
 |  |
@@ -88,4 +89,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
