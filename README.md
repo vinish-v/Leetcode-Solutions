@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
