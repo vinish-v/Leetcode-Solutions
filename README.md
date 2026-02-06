@@ -25,6 +25,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
