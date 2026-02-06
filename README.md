@@ -55,6 +55,7 @@
 | [0007-reverse-integer](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -100,4 +101,12 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
