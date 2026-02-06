@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -45,6 +47,7 @@
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Math
 |  |
@@ -59,6 +62,7 @@
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -81,6 +85,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Heap (Priority Queue)
 |  |
