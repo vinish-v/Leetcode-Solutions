@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
