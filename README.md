@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +67,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
