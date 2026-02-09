@@ -21,6 +21,7 @@
 | [0035-search-insert-position](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
