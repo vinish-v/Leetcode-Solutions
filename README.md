@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
