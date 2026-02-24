@@ -101,6 +101,7 @@
 | [0344-reverse-string](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 ## Sliding Window
 |  |
 | ------- |
