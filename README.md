@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
