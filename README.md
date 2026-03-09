@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [3379-transformed-array](https://github.com/vinish-v/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
