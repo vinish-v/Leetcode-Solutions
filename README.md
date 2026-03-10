@@ -115,6 +115,7 @@
 | [0383-ransom-note](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Matrix
 |  |
 | ------- |
