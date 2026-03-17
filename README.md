@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
