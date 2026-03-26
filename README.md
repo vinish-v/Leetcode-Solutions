@@ -157,6 +157,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -191,5 +192,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vinish-v/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinish-v/Leetcode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
